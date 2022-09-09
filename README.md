@@ -1,1 +1,1 @@
-# Demo
+# Face Recognition Demo
