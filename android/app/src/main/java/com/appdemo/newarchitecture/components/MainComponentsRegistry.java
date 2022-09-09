@@ -1,4 +1,4 @@
-package com.appdemo.newarchitecture.components;
+package com.dvbk.hrm.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

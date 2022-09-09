@@ -1,4 +1,4 @@
-package com.appdemo;
+package com.dvbk.hrm;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
